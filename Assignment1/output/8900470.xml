@@ -7,6 +7,7 @@
   </processing-meta>
   <front>
     <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Nat Rev Psychol</journal-id>
       <journal-id journal-id-type="iso-abbrev">Nat Rev Psychol</journal-id>
       <journal-title-group>
         <journal-title>Nature Reviews Psychology</journal-title>
@@ -90,8 +91,13 @@
         <month>3</month>
         <year>2022</year>
       </pub-date>
-      <fpage>1</fpage>
-      <lpage>12</lpage>
+      <pub-date pub-type="ppub">
+        <year>2022</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>4</issue>
+      <fpage>236</fpage>
+      <lpage>247</lpage>
       <history>
         <date date-type="accepted">
           <day>8</day>
@@ -117,6 +123,12 @@
         <kwd>Interdisciplinary studies</kwd>
         <kwd>Diseases</kwd>
       </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; Springer Nature America, Inc. 2022</meta-value>
+        </custom-meta>
+      </custom-meta-group>
     </article-meta>
   </front>
   <body>
@@ -160,7 +172,7 @@
       <sec id="Sec9">
         <title>Historical context</title>
         <p id="Par17">According to life course theory, human lives must be understood in relation to historical time because differences in birth year expose individuals to different historical contexts<sup><xref ref-type="bibr" rid="CR88">88</xref></sup>. Individuals&#x2019; experiences of stigma are therefore fundamentally shaped by the historical context into which they are born. For example, a woman living in the United States in the nineteenth century likely experienced substantial structural-level sexism and overt macroaggressions: she could not own property, vote or work outside her home. She could be legally raped by her husband (or by her white slave owner if she was Black). A woman living in the United States in the twenty-first century experiences arguably less pronounced structural-level sexism given policy changes since the nineteenth century. However, she continues to experience harmful forms of structural sexism: she could earn lower wages at work than men, live in states with fewer women than men representatives in her legislature and lack access to abortion<sup><xref ref-type="bibr" rid="CR89">89</xref></sup>. She could also continue to experience macroaggressions, such as sexual harassment, and microaggressions, such as not getting hired or receiving poor healthcare on the basis of her sex<sup><xref ref-type="bibr" rid="CR90">90</xref></sup>.</p>
-        <p id="Par18">We hypothesize that stigma is continually being dismantled, maintained and/or created over time through social change processes. There are four contexts for social change that might shape experiences of stigma and individual-level outcomes, including health<sup><xref ref-type="bibr" rid="CR91">91</xref></sup> (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). The contexts of stability and inertia are characterized by a lack of social change. In times of stability, there is a general lack of desire for social change and people are generally happy with the status quo. For&#xA0;example, few people currently call for an end to stigma towards sex offenders. In times of inertia, some members of society desire social change but not enough members desire change to initiate structural and/or individual-level transformation. For example, although Amnesty International has called for full decriminalization of consensual sex work<sup><xref ref-type="bibr" rid="CR92">92</xref></sup>, widespread transformation of policies surrounding sex&#xA0;work and attitudes towards sex workers has arguably yet to occur.<fig id="Fig1"><label>Fig. 1</label><caption><title>Stigma and historical context.</title><p>Societies move forwards and backwards through contexts of social change, represented by bidirectional arrow. Characteristics of each historical context described above timeline (blue). Ways in which individuals experience stigma and how stigma impacts health across historical contexts described below timeline (red). Figure assumes that stigma decreases over time, with times of stability associated with most stigma and times of dramatic social change associated with least stigma.</p></caption><graphic xlink:href="44159_2022_34_Fig1_HTML" id="d32e692"/></fig></p>
+        <p id="Par18">We hypothesize that stigma is continually being dismantled, maintained and/or created over time through social change processes. There are four contexts for social change that might shape experiences of stigma and individual-level outcomes, including health<sup><xref ref-type="bibr" rid="CR91">91</xref></sup> (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). The contexts of stability and inertia are characterized by a lack of social change. In times of stability, there is a general lack of desire for social change and people are generally happy with the status quo. For&#xA0;example, few people currently call for an end to stigma towards sex offenders. In times of inertia, some members of society desire social change but not enough members desire change to initiate structural and/or individual-level transformation. For example, although Amnesty International has called for full decriminalization of consensual sex work<sup><xref ref-type="bibr" rid="CR92">92</xref></sup>, widespread transformation of policies surrounding sex&#xA0;work and attitudes towards sex workers has arguably yet to occur.<fig id="Fig1"><label>Fig. 1</label><caption><title>Stigma and historical context.</title><p>Societies move forwards and backwards through contexts of social change, represented by bidirectional arrow. Characteristics of each historical context described above timeline (blue). Ways in which individuals experience stigma and how stigma impacts health across historical contexts described below timeline (red). Figure assumes that stigma decreases over time, with times of stability associated with most stigma and times of dramatic social change associated with least stigma.</p></caption><graphic xlink:href="44159_2022_34_Fig1_HTML" id="d32e735"/></fig></p>
         <p id="Par19">By contrast, contexts of incremental and dramatic social change are characterized by social transformation. In times of incremental social change, society evolves slowly and steadily in ways that do not threaten cultural identity. For example, there is currently slow evolution towards perceiving people with SUDs as people living with chronic health conditions rather than as criminals<sup><xref ref-type="bibr" rid="CR93">93</xref></sup>, and stigmatizing policies such as the war on drugs are being increasingly critiqued as forms of stigmatization<sup><xref ref-type="bibr" rid="CR94">94</xref>,<xref ref-type="bibr" rid="CR95">95</xref></sup>. In times of dramatic social change, society evolves quickly and profoundly in ways that threaten cultural identity. For example, the Black Lives Matter movement is calling for dramatic systemic change to address racism and, in some places, ushering in structural changes<sup><xref ref-type="bibr" rid="CR96">96</xref></sup>. Notably, contexts for social change are specific to individual stigmatized statuses. At one point in time within one society, there may be different contexts for social change related to sex offenders, sex workers, people with SUDs, Black people and people with other stigmatized statuses.</p>
         <p id="Par20">Research spanning generational statuses provides evidence that the historical context and the context of social change shape experiences and outcomes of stigma. For example, younger generations of Black Americans report experiencing a different form of racism, described as less overt yet still harsh, than older generations did<sup><xref ref-type="bibr" rid="CR97">97</xref></sup>. Similarly, reductions in stigma associated with alcohol use disorders has resulted in younger generations initiating services for alcohol use disorders earlier than older generations<sup><xref ref-type="bibr" rid="CR98">98</xref></sup>.</p>
         <p id="Par21">The pathways linking stigma with health outcomes might also evolve over time<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. For example, as anti-discrimination laws that prohibit discrimination on the basis of stigmatized statuses are enacted, the primary mediating mechanism linking stigma with health might shift from overt discrimination preventing access to health-promoting resources, such as employment, housing and healthcare, to more subtle interpersonal experiences that result in stress<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. Importantly, this change might be slow: even after anti-discrimination laws are enacted, more subtle and covert forms of interpersonal discrimination might continue to prevent access to health-promoting resources for some time.</p>
@@ -168,7 +180,7 @@
       </sec>
       <sec id="Sec10">
         <title>Human development</title>
-        <p id="Par23">In addition to historical time, life course theory suggests that human lives must also be understood in relation to developmental processes and contexts<sup><xref ref-type="bibr" rid="CR88">88</xref></sup> (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>). As individuals age and transition between life stages and social environments, such as from school to work, sources of stigma and contexts in which stigma is experienced shift<sup><xref ref-type="bibr" rid="CR39">39</xref>,<xref ref-type="bibr" rid="CR99">99</xref></sup>. Life course theory suggests that properties of each life stage confer differential susceptibilities and resiliencies to stressors such as stigma<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>. Among children, stigma can take the form of bullying from peers on playgrounds<sup><xref ref-type="bibr" rid="CR100">100</xref></sup>. As children age into adolescence, many begin experiencing more stigma from adults<sup><xref ref-type="bibr" rid="CR101">101</xref></sup>, including discrimination from teachers and other adults in school settings<sup><xref ref-type="bibr" rid="CR102">102</xref></sup>, shopkeepers and police<sup><xref ref-type="bibr" rid="CR103">103</xref></sup>. Yet adolescents can be buffered from stigma by strong relationships with other adults such as parents and teachers<sup><xref ref-type="bibr" rid="CR104">104</xref>,<xref ref-type="bibr" rid="CR105">105</xref></sup>. Emerging adults experience significant transitions in social environments related to education, employment and interpersonal relationships<sup><xref ref-type="bibr" rid="CR106">106</xref></sup>. These transitions might expose emerging adults to new forms of stigma from new sources, such as from college professors, employers and co-workers, and romantic partners. Yet&#xA0;emerging adults might also have greater ability to change where they live and work,&#xA0;and who they spend time with, than children and adolescents, allowing them to reduce their exposure to stigma in these contexts. Adults might experience more stigma from healthcare providers as they develop chronic diseases, bringing them into healthcare contexts more frequently<sup><xref ref-type="bibr" rid="CR107">107</xref>,<xref ref-type="bibr" rid="CR108">108</xref></sup>. As they age, older adults report increasing age discrimination<sup><xref ref-type="bibr" rid="CR109">109</xref></sup>. Yet older adults have better emotion regulation abilities that protect them from the negative impacts of stigma<sup><xref ref-type="bibr" rid="CR110">110</xref></sup>.<fig id="Fig2"><label>Fig. 2</label><caption><title>Stigma and human development.</title><p>Vulnerabilities to stigma at each developmental period depicted above timeline (blue). Examples of sources of stigma across developmental stages depicted below timeline.</p></caption><graphic xlink:href="44159_2022_34_Fig2_HTML" id="d32e809"/></fig></p>
+        <p id="Par23">In addition to historical time, life course theory suggests that human lives must also be understood in relation to developmental processes and contexts<sup><xref ref-type="bibr" rid="CR88">88</xref></sup> (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>). As individuals age and transition between life stages and social environments, such as from school to work, sources of stigma and contexts in which stigma is experienced shift<sup><xref ref-type="bibr" rid="CR39">39</xref>,<xref ref-type="bibr" rid="CR99">99</xref></sup>. Life course theory suggests that properties of each life stage confer differential susceptibilities and resiliencies to stressors such as stigma<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>. Among children, stigma can take the form of bullying from peers on playgrounds<sup><xref ref-type="bibr" rid="CR100">100</xref></sup>. As children age into adolescence, many begin experiencing more stigma from adults<sup><xref ref-type="bibr" rid="CR101">101</xref></sup>, including discrimination from teachers and other adults in school settings<sup><xref ref-type="bibr" rid="CR102">102</xref></sup>, shopkeepers and police<sup><xref ref-type="bibr" rid="CR103">103</xref></sup>. Yet adolescents can be buffered from stigma by strong relationships with other adults such as parents and teachers<sup><xref ref-type="bibr" rid="CR104">104</xref>,<xref ref-type="bibr" rid="CR105">105</xref></sup>. Emerging adults experience significant transitions in social environments related to education, employment and interpersonal relationships<sup><xref ref-type="bibr" rid="CR106">106</xref></sup>. These transitions might expose emerging adults to new forms of stigma from new sources, such as from college professors, employers and co-workers, and romantic partners. Yet&#xA0;emerging adults might also have greater ability to change where they live and work,&#xA0;and who they spend time with, than children and adolescents, allowing them to reduce their exposure to stigma in these contexts. Adults might experience more stigma from healthcare providers as they develop chronic diseases, bringing them into healthcare contexts more frequently<sup><xref ref-type="bibr" rid="CR107">107</xref>,<xref ref-type="bibr" rid="CR108">108</xref></sup>. As they age, older adults report increasing age discrimination<sup><xref ref-type="bibr" rid="CR109">109</xref></sup>. Yet older adults have better emotion regulation abilities that protect them from the negative impacts of stigma<sup><xref ref-type="bibr" rid="CR110">110</xref></sup>.<fig id="Fig2"><label>Fig. 2</label><caption><title>Stigma and human development.</title><p>Vulnerabilities to stigma at each developmental period depicted above timeline (blue). Examples of sources of stigma across developmental stages depicted below timeline.</p></caption><graphic xlink:href="44159_2022_34_Fig2_HTML" id="d32e852"/></fig></p>
         <p id="Par24">Evidence from developmental science indicates that the temporal context of adverse experiences during the life course has implications for both immediate and lasting health. Sensitive periods are developmental stages when social or environmental exposures can have especially pronounced effects on human development, and can be critical drivers of population-level health disparities<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>. We hypothesize that childhood and adolescence might be sensitive periods for stigma: although children and adolescents gain awareness of stigma as they develop metacognitive skills, or awareness of others&#x2019; thoughts and perceptions<sup><xref ref-type="bibr" rid="CR111">111</xref></sup>, they have not fully developed coping capacity and skills, self-efficacy or social power<sup><xref ref-type="bibr" rid="CR112">112</xref>,<xref ref-type="bibr" rid="CR113">113</xref></sup>. They might therefore be more vulnerable to stigma than adults because they are less able to respond to stigma with resilience and resistance strategies. Moreover, adolescents undergoing identity versus role confusion, a stage when individuals grapple with questions of who they are and how they are similar to versus unique from others, might be more vulnerable to stigma<sup><xref ref-type="bibr" rid="CR114">114</xref>,<xref ref-type="bibr" rid="CR115">115</xref></sup>. Indeed, exposure to stigma early in life is associated with worse health outcomes than exposure later in life<sup><xref ref-type="bibr" rid="CR116">116</xref></sup>.</p>
         <p id="Par25">Older age might be another sensitive period for stigma. According to the strength and vulnerability integration model<sup><xref ref-type="bibr" rid="CR110">110</xref></sup>, older adults have accumulated psychological strengths such as emotion regulation abilities that are protective of their well-being. Yet older adults might also be more vulnerable to situations that elicit high levels of emotional arousal, and repeated exposure to stigma over the life course might deplete their coping resources over time, rendering them more vulnerable to stigma<sup><xref ref-type="bibr" rid="CR109">109</xref></sup>. Additionally, older adults might be particularly vulnerable to several of the pathways whereby stigma undermines health, such as social isolation and less access to resources, as their social networks shrink and they become more dependent on others and social welfare systems<sup><xref ref-type="bibr" rid="CR110">110</xref>,<xref ref-type="bibr" rid="CR117">117</xref></sup>.</p>
         <p id="Par26">Finally, the weathering hypothesis suggests that stress-related wear and tear accumulates over the life course and results in substantial health inequities among stigmatized populations<sup><xref ref-type="bibr" rid="CR118">118</xref>,<xref ref-type="bibr" rid="CR119">119</xref></sup>. Thus, at the timescale of human development, associations between stigma and health might be influenced both by specific sensitive periods and by processes that unfold over the lifespan.</p>
@@ -176,7 +188,7 @@
       <sec id="Sec11">
         <title>Status course</title>
         <p id="Par27">The sections above describe how experiences and outcomes of stigma can change over historical and developmental timescales. The status course timescale describes the extent to which stigmatized statuses can themselves change and evolve over time<sup><xref ref-type="bibr" rid="CR82">82</xref></sup>. For example, individuals can develop or gain stigmatized statuses such as sexual and gender diverse identities, HIV, mental illnesses, weight and old age during their lifetime. Individuals can also lose stigmatized statuses, such as when they resolve a SUD, lose weight or transition from unemployed to employed. Additionally, associations between individuals&#x2019; identities and their stigmatized status can change over time, such as when individuals become aware that an aspect of the self, such as their gender or race, is stigmatized within society<sup><xref ref-type="bibr" rid="CR120">120</xref></sup>.</p>
-        <p id="Par28">Experiences of stigma change alongside changes in stigmatized statuses<sup><xref ref-type="bibr" rid="CR31">31</xref>,<xref ref-type="bibr" rid="CR32">32</xref></sup> and identities<sup><xref ref-type="bibr" rid="CR120">120</xref>,<xref ref-type="bibr" rid="CR121">121</xref></sup> (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>). Modified labelling theory<sup><xref ref-type="bibr" rid="CR31">31</xref></sup> and the stage model of self-stigma<sup><xref ref-type="bibr" rid="CR32">32</xref></sup> suggest that individuals first develop perceived stigma, or an awareness that a particular status is stigmatized within society. Individuals who gain or become aware of a stigmatized status then begin the process of identity formation, involving self-discovery and exploration of their new identity<sup><xref ref-type="bibr" rid="CR122">122</xref></sup>. They then enter a sensitive period during which they are at risk of applying the negative stereotypes and prejudice associated with the status to the self, thereby potentially rendering them vulnerable to internalized, experienced and anticipated stigma<sup><xref ref-type="bibr" rid="CR32">32</xref></sup>. For example, longitudinal work suggests that internalized HIV and sexually transmitted infection stigma are particularly high immediately after an HIV or sexually transmitted infection diagnosis<sup><xref ref-type="bibr" rid="CR123">123</xref>,<xref ref-type="bibr" rid="CR124">124</xref></sup>. Individuals then move through a period of cognitive dissonance, during which conflict arises between their previously held positive self-concept and new internalized stigma<sup><xref ref-type="bibr" rid="CR125">125</xref></sup>. For example, the self-perception of an individual who has gained weight that they are motivated and hard-working conflicts with the stereotype that people with obesity are lazy or weak-willed<sup><xref ref-type="bibr" rid="CR126">126</xref></sup>.<fig id="Fig3"><label>Fig. 3</label><caption><title>Stigma and status course.</title><p>Vulnerabilities to stigma across status course described above timeline (blue). Example of substance use disorder (SUD) stigma changing with status course described below timeline (red). Some individuals might not progress to next stage (dotted arrows).</p></caption><graphic xlink:href="44159_2022_34_Fig3_HTML" id="d32e938"/></fig></p>
+        <p id="Par28">Experiences of stigma change alongside changes in stigmatized statuses<sup><xref ref-type="bibr" rid="CR31">31</xref>,<xref ref-type="bibr" rid="CR32">32</xref></sup> and identities<sup><xref ref-type="bibr" rid="CR120">120</xref>,<xref ref-type="bibr" rid="CR121">121</xref></sup> (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>). Modified labelling theory<sup><xref ref-type="bibr" rid="CR31">31</xref></sup> and the stage model of self-stigma<sup><xref ref-type="bibr" rid="CR32">32</xref></sup> suggest that individuals first develop perceived stigma, or an awareness that a particular status is stigmatized within society. Individuals who gain or become aware of a stigmatized status then begin the process of identity formation, involving self-discovery and exploration of their new identity<sup><xref ref-type="bibr" rid="CR122">122</xref></sup>. They then enter a sensitive period during which they are at risk of applying the negative stereotypes and prejudice associated with the status to the self, thereby potentially rendering them vulnerable to internalized, experienced and anticipated stigma<sup><xref ref-type="bibr" rid="CR32">32</xref></sup>. For example, longitudinal work suggests that internalized HIV and sexually transmitted infection stigma are particularly high immediately after an HIV or sexually transmitted infection diagnosis<sup><xref ref-type="bibr" rid="CR123">123</xref>,<xref ref-type="bibr" rid="CR124">124</xref></sup>. Individuals then move through a period of cognitive dissonance, during which conflict arises between their previously held positive self-concept and new internalized stigma<sup><xref ref-type="bibr" rid="CR125">125</xref></sup>. For example, the self-perception of an individual who has gained weight that they are motivated and hard-working conflicts with the stereotype that people with obesity are lazy or weak-willed<sup><xref ref-type="bibr" rid="CR126">126</xref></sup>.<fig id="Fig3"><label>Fig. 3</label><caption><title>Stigma and status course.</title><p>Vulnerabilities to stigma across status course described above timeline (blue). Example of substance use disorder (SUD) stigma changing with status course described below timeline (red). Some individuals might not progress to next stage (dotted arrows).</p></caption><graphic xlink:href="44159_2022_34_Fig3_HTML" id="d32e981"/></fig></p>
         <p id="Par29">Increasing dissonance might lead to existential crisis, which can be resolved by accepting or rejecting previously held stereotypes and prejudice<sup><xref ref-type="bibr" rid="CR125">125</xref></sup>. If individuals accept stereotypes and prejudice, they remain vulnerable to internalized, experienced and anticipated stigma. If individuals reject stereotypes and prejudice, their internalized stigma decreases over time<sup><xref ref-type="bibr" rid="CR125">125</xref></sup>. As internalized stigma decreases, individuals are able to accept their stigmatized status, integrate their new identity into their sense of self, and build self-esteem and self-efficacy<sup><xref ref-type="bibr" rid="CR120">120</xref>&#x2013;<xref ref-type="bibr" rid="CR122">122</xref>,<xref ref-type="bibr" rid="CR127">127</xref></sup>. These individuals can develop pride in their stigmatized status as they form social connections with others who share their status, and their identity associated with the status can become less central to their self-definition or balance with other identities<sup><xref ref-type="bibr" rid="CR121">121</xref></sup>. Individuals can also become more resilient to stigma as they build self-esteem, self-efficacy and social support networks. For example, people in recovery from SUDs accumulate self-esteem<sup><xref ref-type="bibr" rid="CR128">128</xref></sup> and social support<sup><xref ref-type="bibr" rid="CR129">129</xref></sup> over time. This may explain why people in later stages of recovery report less psychological distress associated with experienced stigma than people in earlier stages<sup><xref ref-type="bibr" rid="CR130">130</xref></sup>.</p>
         <p id="Par30">There has been less work on the process of losing a stigmatized status, perhaps because many stigmatized statuses (such as HIV) cannot be lost over time. Nevertheless,&#xA0;some common intrapersonal and interpersonal processes have been identified that facilitate transitions from a stigmatized status to a non-stigmatized status when stigmatized statuses are lost.</p>
         <p id="Par31">First, the identity theory of desistance<sup><xref ref-type="bibr" rid="CR131">131</xref></sup> and the Social Identity Model of Cessation Maintenance<sup><xref ref-type="bibr" rid="CR132">132</xref></sup> suggest that individuals begin to identify new &#x2018;possible selves&#x2019;, or ideas of what future versions of themselves might be, at the intrapersonal level as they lose stigmatized statuses. For example, people with SUDs begin to replace an existing stigmatized identity, such as &#x2018;addict&#x2019;, with a valued identity, such as &#x2018;person in recovery&#x2019;<sup><xref ref-type="bibr" rid="CR132">132</xref></sup>. For some individuals, high levels of identification with the new possible selves or valued identities facilitates the process of evolving past the stigmatized identity<sup><xref ref-type="bibr" rid="CR132">132</xref></sup>.</p>
@@ -186,7 +198,7 @@
       <sec id="Sec12">
         <title>Intersection of timescales</title>
         <p id="Par34">Changing stigmatized statuses are nested within developing humans, which are nested within evolving historical contexts. There is some precedence for studying intersecting timescales within stigma research, especially within the context of age&#x2013;period&#x2013;cohort effects which consider the intersections between historical context and human development<sup><xref ref-type="bibr" rid="CR99">99</xref></sup>. However, to best understand how an individual will experience and be impacted by stigma, it is important to consider when they are experiencing stigma in relation to all three timescales.</p>
-        <p id="Par35">For example, consider sexually diverse adolescents living in the United States in 2022 (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>). Regarding the historical context, there is evidence that sexual diversity stigma is undergoing dramatic change in the United States. At the structural level, state Supreme Courts began finding bans on same-sex marriages unconstitutional in 2003 and the US Supreme Court ruled that all states must recognize same-sex marriage in 2015, thereby removing a pernicious form of structural stigma. The policy landscape surrounding sexual diversity rights continues to evolve<sup><xref ref-type="bibr" rid="CR8">8</xref>,<xref ref-type="bibr" rid="CR134">134</xref></sup>. Reflecting parallel changes at the individual level, the percentage of respondents to the General Social Survey who agreed that &#x201C;homosexuals&#xA0;should have a right to marry&#x201D; increased from 11% in 1990 to 68% in 2018 and that a &#x201C;homosexual should be allowed to teach&#x201D; rose from 65% to 88% during the same time period<sup><xref ref-type="bibr" rid="CR135">135</xref></sup>. Considering only historical context, one might expect that sexually diverse adolescents are less harmed by stigma in the 2020s than they were in the 1990s.<fig id="Fig4"><label>Fig. 4</label><caption><title>Intersecting timescales for sexually diverse adolescents and adults in 2022.</title><p>Status course timescale nested within developmental timescale, nested within historical context timescale. Stigma vulnerabilities among sexually diverse adolescents and adults (grey box), sexually diverse adolescents (blue boxes) and sexually diverse adults (red boxes). Magnitude of stigma vulnerabilities indicated at various time points (black lines).</p></caption><graphic xlink:href="44159_2022_34_Fig4_HTML" id="d32e1059"/></fig></p>
+        <p id="Par35">For example, consider sexually diverse adolescents living in the United States in 2022 (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>). Regarding the historical context, there is evidence that sexual diversity stigma is undergoing dramatic change in the United States. At the structural level, state Supreme Courts began finding bans on same-sex marriages unconstitutional in 2003 and the US Supreme Court ruled that all states must recognize same-sex marriage in 2015, thereby removing a pernicious form of structural stigma. The policy landscape surrounding sexual diversity rights continues to evolve<sup><xref ref-type="bibr" rid="CR8">8</xref>,<xref ref-type="bibr" rid="CR134">134</xref></sup>. Reflecting parallel changes at the individual level, the percentage of respondents to the General Social Survey who agreed that &#x201C;homosexuals&#xA0;should have a right to marry&#x201D; increased from 11% in 1990 to 68% in 2018 and that a &#x201C;homosexual should be allowed to teach&#x201D; rose from 65% to 88% during the same time period<sup><xref ref-type="bibr" rid="CR135">135</xref></sup>. Considering only historical context, one might expect that sexually diverse adolescents are less harmed by stigma in the 2020s than they were in the 1990s.<fig id="Fig4"><label>Fig. 4</label><caption><title>Intersecting timescales for sexually diverse adolescents and adults in 2022.</title><p>Status course timescale nested within developmental timescale, nested within historical context timescale. Stigma vulnerabilities among sexually diverse adolescents and adults (grey box), sexually diverse adolescents (blue boxes) and sexually diverse adults (red boxes). Magnitude of stigma vulnerabilities indicated at various time points (black lines).</p></caption><graphic xlink:href="44159_2022_34_Fig4_HTML" id="d32e1102"/></fig></p>
         <p id="Par36">However, despite benefiting from a historical context of decreasing stigma, sexually diverse adolescents continue to experience persistent health inequities<sup><xref ref-type="bibr" rid="CR111">111</xref></sup>. This might be because their stage of development and status course continue to render adolescents vulnerable to stigma. Regarding human development, adolescence is a sensitive period for stigma because individuals are gaining awareness that others might hold prejudice towards and stereotypes about them, but have fewer coping and resilience resources to buffer them from experienced and anticipated stigma<sup><xref ref-type="bibr" rid="CR111">111</xref></sup>. In addition, sexually diverse adolescents are often financially, legally and emotionally dependent on their families and have little control over their environments, such as which school they attend. It is possible that the same experiences of stigma that could be managed by changing a residence, friend group or workplace among adults cannot be addressed among adolescents who do not have full control of these aspects of their lives, thus making sexually diverse adolescents more vulnerable to stigma than sexually diverse adults.</p>
         <p id="Par37">Regarding the stigma course timescale, evidence suggests that youth first experience same-sex attraction around age 12&#x2009;years, and realize and disclose their sexually diverse status around age 14&#x2009;years (both of which are considerably younger ages than in older generations)<sup><xref ref-type="bibr" rid="CR111">111</xref>,<xref ref-type="bibr" rid="CR136">136</xref></sup>. Adolescents are, therefore, arguably in the early phases of stigmatized identity development, and might be experiencing identity conflict and confusion. This confers an additional layer of vulnerability to experiences of stigma. By contrast, sexually diverse adults might be more resilient to experiences of stigma given that they have had more time to reject stereotypes and prejudice associated with their stigmatized status<sup><xref ref-type="bibr" rid="CR32">32</xref></sup>, as well as achieve self-acceptance, develop pride and form social connections with sexually diverse peers<sup><xref ref-type="bibr" rid="CR15">15</xref></sup>.</p>
         <p id="Par38">Considering the example of sexually diverse adolescents illustrates the importance of integrating multiple timescales into stigma and health research. Although they live in a historical context characterized by dramatic social change, which should confer some protections from stigma, today&#x2019;s sexually diverse adolescents remain vulnerable to stigma because of their stage of human development and status course (that is, their early stage of stigmatized identity development). Taking all three timescales into account is important for both understanding and intervening in associations between stigma and health among sexually diverse adolescents.</p>
@@ -273,6 +285,7 @@
           <volume>67</volume>
           <fpage>358</fpage>
           <lpage>367</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2008.03.022</pub-id>
           <pub-id pub-id-type="pmid">18524444</pub-id>
         </element-citation>
       </ref>
@@ -303,6 +316,7 @@
           <volume>103</volume>
           <fpage>813</fpage>
           <lpage>821</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2012.301069</pub-id>
           <pub-id pub-id-type="pmid">23488505</pub-id>
         </element-citation>
       </ref>
@@ -321,6 +335,7 @@
           <volume>27</volume>
           <fpage>167</fpage>
           <lpage>194</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.publhealth.27.021405.102103</pub-id>
           <pub-id pub-id-type="pmid">16533114</pub-id>
         </element-citation>
       </ref>
@@ -339,6 +354,7 @@
           <volume>92</volume>
           <fpage>346</fpage>
           <lpage>363</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1540-6237.2011.00772.x</pub-id>
           <pub-id pub-id-type="pmid">21919270</pub-id>
         </element-citation>
       </ref>
@@ -361,6 +377,7 @@
           <volume>83</volume>
           <fpage>759</fpage>
           <lpage>790</lpage>
+          <pub-id pub-id-type="doi">10.1353/sof.2005.0005</pub-id>
         </element-citation>
       </ref>
       <ref id="CR8">
@@ -404,6 +421,7 @@
           <year>2020</year>
           <volume>20</volume>
           <fpage>782</fpage>
+          <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30498-9</pub-id>
           <pub-id pub-id-type="pmid">32592670</pub-id>
         </element-citation>
       </ref>
@@ -426,6 +444,7 @@
           <volume>83</volume>
           <fpage>574</fpage>
           <lpage>577</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.83.4.574</pub-id>
           <pub-id pub-id-type="pmid">8460738</pub-id>
         </element-citation>
       </ref>
@@ -452,6 +471,7 @@
           <volume>92</volume>
           <fpage>371</fpage>
           <lpage>377</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.92.3.371</pub-id>
           <pub-id pub-id-type="pmid">11867313</pub-id>
         </element-citation>
       </ref>
@@ -474,6 +494,7 @@
           <volume>24</volume>
           <fpage>2003</fpage>
           <lpage>2006</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-020-02856-8</pub-id>
           <pub-id pub-id-type="pmid">32266502</pub-id>
         </element-citation>
       </ref>
@@ -496,6 +517,7 @@
           <volume>24</volume>
           <fpage>253</fpage>
           <lpage>266</lpage>
+          <pub-id pub-id-type="doi">10.1080/10911359.2013.808971</pub-id>
         </element-citation>
       </ref>
       <ref id="CR16">
@@ -521,6 +543,7 @@
           <volume>56</volume>
           <fpage>280</fpage>
           <lpage>285</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jadohealth.2014.10.275</pub-id>
         </element-citation>
       </ref>
       <ref id="CR17">
@@ -542,6 +565,7 @@
           <volume>26</volume>
           <fpage>1388</fpage>
           <lpage>1398</lpage>
+          <pub-id pub-id-type="doi">10.1080/0963-8280400000898</pub-id>
         </element-citation>
       </ref>
       <ref id="CR18">
@@ -559,6 +583,7 @@
           <volume>74</volume>
           <fpage>29</fpage>
           <lpage>52</lpage>
+          <pub-id pub-id-type="doi">10.1177/0190272511398020</pub-id>
         </element-citation>
       </ref>
       <ref id="CR19">
@@ -592,6 +617,7 @@
           <volume>109</volume>
           <fpage>43</fpage>
           <lpage>47</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2018.304766</pub-id>
         </element-citation>
       </ref>
       <ref id="CR20">
@@ -610,6 +636,7 @@
           <volume>109</volume>
           <fpage>48</fpage>
           <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2018.304738</pub-id>
         </element-citation>
       </ref>
       <ref id="CR21">
@@ -631,6 +658,7 @@
           <volume>27</volume>
           <fpage>363</fpage>
           <lpage>385</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.soc.27.1.363</pub-id>
         </element-citation>
       </ref>
       <ref id="CR22">
@@ -655,6 +683,7 @@
           <year>2018</year>
           <volume>18</volume>
           <fpage>919</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12889-018-5861-3</pub-id>
           <pub-id pub-id-type="pmid">30049270</pub-id>
         </element-citation>
       </ref>
@@ -686,6 +715,7 @@
           <volume>4</volume>
           <fpage>213</fpage>
           <lpage>224</lpage>
+          <pub-id pub-id-type="doi">10.1037/sah0000106</pub-id>
         </element-citation>
       </ref>
       <ref id="CR28">
@@ -715,6 +745,7 @@
           <volume>54</volume>
           <fpage>1376</fpage>
           <lpage>1384</lpage>
+          <pub-id pub-id-type="doi">10.1080/10826084.2019.1581221</pub-id>
           <pub-id pub-id-type="pmid">30945955</pub-id>
         </element-citation>
       </ref>
@@ -745,6 +776,7 @@
           <volume>3</volume>
           <fpage>348</fpage>
           <lpage>376</lpage>
+          <pub-id pub-id-type="doi">10.1037/sah0000104</pub-id>
         </element-citation>
       </ref>
       <ref id="CR30">
@@ -766,6 +798,7 @@
           <volume>16</volume>
           <fpage>162</fpage>
           <lpage>166</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1467-8721.2007.00496.x</pub-id>
         </element-citation>
       </ref>
       <ref id="CR31">
@@ -784,6 +817,7 @@
           <volume>54</volume>
           <fpage>400</fpage>
           <lpage>423</lpage>
+          <pub-id pub-id-type="doi">10.2307/2095613</pub-id>
         </element-citation>
       </ref>
       <ref id="CR32">
@@ -805,6 +839,7 @@
           <volume>57</volume>
           <fpage>464</fpage>
           <lpage>469</lpage>
+          <pub-id pub-id-type="doi">10.1177/070674371205700804</pub-id>
           <pub-id pub-id-type="pmid">22854028</pub-id>
         </element-citation>
       </ref>
@@ -843,6 +878,7 @@
           <volume>6</volume>
           <fpage>324</fpage>
           <lpage>334</lpage>
+          <pub-id pub-id-type="doi">10.1037/sah0000267</pub-id>
         </element-citation>
       </ref>
       <ref id="CR35">
@@ -876,6 +912,7 @@
           <volume>9</volume>
           <fpage>115</fpage>
           <lpage>136</lpage>
+          <pub-id pub-id-type="doi">10.2147/SAR.S183256</pub-id>
           <pub-id pub-id-type="pmid">30538599</pub-id>
         </element-citation>
       </ref>
@@ -902,6 +939,7 @@
           <volume>93</volume>
           <fpage>200</fpage>
           <lpage>208</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.93.2.200</pub-id>
           <pub-id pub-id-type="pmid">12554570</pub-id>
         </element-citation>
       </ref>
@@ -932,6 +970,7 @@
           <volume>75</volume>
           <fpage>757</fpage>
           <lpage>785</lpage>
+          <pub-id pub-id-type="doi">10.1111/josi.12342</pub-id>
         </element-citation>
       </ref>
       <ref id="CR38">
@@ -950,6 +989,7 @@
           <volume>43</volume>
           <fpage>34</fpage>
           <lpage>43</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10865-019-00064-x</pub-id>
           <pub-id pub-id-type="pmid">31177373</pub-id>
         </element-citation>
       </ref>
@@ -968,6 +1008,7 @@
           <volume>55</volume>
           <fpage>1315</fpage>
           <lpage>1349</lpage>
+          <pub-id pub-id-type="doi">10.1177/0042085919893751</pub-id>
         </element-citation>
       </ref>
       <ref id="CR40">
@@ -993,6 +1034,7 @@
           <volume>11</volume>
           <fpage>110</fpage>
           <lpage>122</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11469-012-9402-5</pub-id>
           <pub-id pub-id-type="pmid">23956702</pub-id>
         </element-citation>
       </ref>
@@ -1012,6 +1054,7 @@
           <volume>33</volume>
           <fpage>184</fpage>
           <lpage>195</lpage>
+          <pub-id pub-id-type="doi">10.1089/apc.2018.0282</pub-id>
           <pub-id pub-id-type="pmid">30932700</pub-id>
         </element-citation>
       </ref>
@@ -1046,6 +1089,7 @@
           <volume>34</volume>
           <fpage>484</fpage>
           <lpage>490</lpage>
+          <pub-id pub-id-type="doi">10.1089/apc.2020.0144</pub-id>
           <pub-id pub-id-type="pmid">33147086</pub-id>
         </element-citation>
       </ref>
@@ -1072,6 +1116,7 @@
           <volume>8</volume>
           <fpage>79</fpage>
           <lpage>88</lpage>
+          <pub-id pub-id-type="doi">10.1177/1742395311429393</pub-id>
           <pub-id pub-id-type="pmid">22080524</pub-id>
         </element-citation>
       </ref>
@@ -1094,6 +1139,7 @@
           <volume>103</volume>
           <fpage>1</fpage>
           <lpage>6</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2013.12.017</pub-id>
           <pub-id pub-id-type="pmid">24445152</pub-id>
         </element-citation>
       </ref>
@@ -1113,6 +1159,7 @@
           <volume>64</volume>
           <fpage>1524</fpage>
           <lpage>1535</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2006.11.013</pub-id>
           <pub-id pub-id-type="pmid">17188411</pub-id>
         </element-citation>
       </ref>
@@ -1152,6 +1199,7 @@
           <volume>116</volume>
           <fpage>404</fpage>
           <lpage>416</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0033-3549(04)50068-7</pub-id>
           <pub-id pub-id-type="pmid">12042604</pub-id>
         </element-citation>
       </ref>
@@ -1190,6 +1238,7 @@
           <volume>86</volume>
           <fpage>403</fpage>
           <lpage>415</lpage>
+          <pub-id pub-id-type="doi">10.1037/ccp0000299</pub-id>
           <pub-id pub-id-type="pmid">29683698</pub-id>
         </element-citation>
       </ref>
@@ -1208,6 +1257,7 @@
           <volume>71</volume>
           <fpage>742</fpage>
           <lpage>751</lpage>
+          <pub-id pub-id-type="doi">10.1037/amp0000068</pub-id>
           <pub-id pub-id-type="pmid">27977256</pub-id>
         </element-citation>
       </ref>
@@ -1234,6 +1284,7 @@
           <volume>80</volume>
           <fpage>106</fpage>
           <lpage>108</lpage>
+          <pub-id pub-id-type="doi">10.1097/QAI.0000000000001961</pub-id>
         </element-citation>
       </ref>
       <ref id="CR52">
@@ -1267,6 +1318,7 @@
           <volume>24</volume>
           <fpage>39</fpage>
           <lpage>44</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-019-02696-1</pub-id>
           <pub-id pub-id-type="pmid">31606770</pub-id>
         </element-citation>
       </ref>
@@ -1296,6 +1348,7 @@
           <year>2021</year>
           <volume>222</volume>
           <fpage>108679</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.drugalcdep.2021.108679</pub-id>
           <pub-id pub-id-type="pmid">33810910</pub-id>
         </element-citation>
       </ref>
@@ -1322,6 +1375,7 @@
           <volume>41</volume>
           <fpage>85</fpage>
           <lpage>115</lpage>
+          <pub-id pub-id-type="doi">10.24095/hpcdp.41.3.03</pub-id>
         </element-citation>
       </ref>
       <ref id="CR55">
@@ -1347,6 +1401,7 @@
           <volume>10</volume>
           <fpage>311</fpage>
           <lpage>324</lpage>
+          <pub-id pub-id-type="doi">10.2989/16085906.2011.637730</pub-id>
         </element-citation>
       </ref>
       <ref id="CR56">
@@ -1368,6 +1423,7 @@
           <year>2017</year>
           <volume>140</volume>
           <fpage>e20170432</fpage>
+          <pub-id pub-id-type="doi">10.1542/peds.2017-0432</pub-id>
           <pub-id pub-id-type="pmid">28947607</pub-id>
         </element-citation>
       </ref>
@@ -1387,6 +1443,7 @@
           <volume>233</volume>
           <fpage>229</fpage>
           <lpage>236</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2019.05.012</pub-id>
           <pub-id pub-id-type="pmid">31229909</pub-id>
         </element-citation>
       </ref>
@@ -1409,6 +1466,7 @@
           <volume>24</volume>
           <fpage>392</fpage>
           <lpage>404</lpage>
+          <pub-id pub-id-type="doi">10.1080/09581596.2013.873532</pub-id>
         </element-citation>
       </ref>
       <ref id="CR60">
@@ -1448,6 +1506,7 @@
           <volume>39</volume>
           <fpage>226</fpage>
           <lpage>242</lpage>
+          <pub-id pub-id-type="doi">10.1177/0361684314552653</pub-id>
         </element-citation>
       </ref>
       <ref id="CR62">
@@ -1469,6 +1528,7 @@
           <volume>71</volume>
           <fpage>2150</fpage>
           <lpage>2161</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2010.09.030</pub-id>
           <pub-id pub-id-type="pmid">21051128</pub-id>
         </element-citation>
       </ref>
@@ -1488,6 +1548,7 @@
           <volume>17</volume>
           <fpage>1</fpage>
           <lpage>40</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12916-019-1250-8</pub-id>
           <pub-id pub-id-type="pmid">30651111</pub-id>
         </element-citation>
       </ref>
@@ -1506,6 +1567,7 @@
           <volume>75</volume>
           <fpage>1300</fpage>
           <lpage>1311</lpage>
+          <pub-id pub-id-type="doi">10.1037/amp0000744</pub-id>
           <pub-id pub-id-type="pmid">33382299</pub-id>
         </element-citation>
       </ref>
@@ -1536,6 +1598,7 @@
           <volume>68</volume>
           <fpage>225</fpage>
           <lpage>236</lpage>
+          <pub-id pub-id-type="doi">10.1037/a0032705</pub-id>
           <pub-id pub-id-type="pmid">23688090</pub-id>
         </element-citation>
       </ref>
@@ -1555,6 +1618,7 @@
           <volume>14</volume>
           <fpage>1</fpage>
           <lpage>27</lpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0217623</pub-id>
         </element-citation>
       </ref>
       <ref id="CR67">
@@ -1576,6 +1640,7 @@
           <volume>4</volume>
           <fpage>182</fpage>
           <lpage>190</lpage>
+          <pub-id pub-id-type="doi">10.1007/s13679-015-0153-z</pub-id>
           <pub-id pub-id-type="pmid">26627213</pub-id>
         </element-citation>
       </ref>
@@ -1601,6 +1666,7 @@
           <year>2019</year>
           <volume>5</volume>
           <fpage>233372141985566</fpage>
+          <pub-id pub-id-type="doi">10.1177/2333721419855665</pub-id>
         </element-citation>
       </ref>
       <ref id="CR69">
@@ -1625,6 +1691,7 @@
           <year>2019</year>
           <volume>7</volume>
           <fpage>100360</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.ssmph.2019.100360</pub-id>
         </element-citation>
       </ref>
       <ref id="CR70">
@@ -1657,6 +1724,7 @@
           <year>2020</year>
           <volume>244</volume>
           <fpage>112463</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2019.112463</pub-id>
           <pub-id pub-id-type="pmid">31439269</pub-id>
         </element-citation>
       </ref>
@@ -1679,6 +1747,7 @@
           <volume>57</volume>
           <fpage>2143</fpage>
           <lpage>2167</lpage>
+          <pub-id pub-id-type="doi">10.1007/s13524-020-00909-0</pub-id>
           <pub-id pub-id-type="pmid">32978723</pub-id>
         </element-citation>
       </ref>
@@ -1697,6 +1766,7 @@
           <year>2018</year>
           <volume>21</volume>
           <fpage>e25198</fpage>
+          <pub-id pub-id-type="doi">10.1002/jia2.25198</pub-id>
           <pub-id pub-id-type="pmid">30362662</pub-id>
         </element-citation>
       </ref>
@@ -1715,6 +1785,7 @@
           <year>2013</year>
           <volume>16</volume>
           <fpage>18640</fpage>
+          <pub-id pub-id-type="doi">10.7448/IAS.16.3.18640</pub-id>
           <pub-id pub-id-type="pmid">24242258</pub-id>
         </element-citation>
       </ref>
@@ -1745,6 +1816,7 @@
           <volume>210</volume>
           <fpage>261</fpage>
           <lpage>268</lpage>
+          <pub-id pub-id-type="doi">10.1192/bjp.bp.116.189464</pub-id>
           <pub-id pub-id-type="pmid">28153928</pub-id>
         </element-citation>
       </ref>
@@ -1779,6 +1851,7 @@
           <volume>25</volume>
           <fpage>3574</fpage>
           <lpage>3604</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-021-03262-4</pub-id>
           <pub-id pub-id-type="pmid">33866444</pub-id>
         </element-citation>
       </ref>
@@ -1801,6 +1874,7 @@
           <volume>10</volume>
           <fpage>1350</fpage>
           <lpage>1357</lpage>
+          <pub-id pub-id-type="doi">10.1093/tbm/ibaa087</pub-id>
           <pub-id pub-id-type="pmid">33421077</pub-id>
         </element-citation>
       </ref>
@@ -1820,6 +1894,7 @@
           <volume>34</volume>
           <fpage>275</fpage>
           <lpage>280</lpage>
+          <pub-id pub-id-type="doi">10.1089/apc.2020.0021</pub-id>
           <pub-id pub-id-type="pmid">32484742</pub-id>
         </element-citation>
       </ref>
@@ -1838,6 +1913,7 @@
           <volume>38</volume>
           <fpage>442</fpage>
           <lpage>454</lpage>
+          <pub-id pub-id-type="doi">10.1177/0011000009351601</pub-id>
         </element-citation>
       </ref>
       <ref id="CR79">
@@ -1856,6 +1932,7 @@
           <volume>110</volume>
           <fpage>59</fpage>
           <lpage>64</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.schres.2009.01.006</pub-id>
           <pub-id pub-id-type="pmid">19269140</pub-id>
         </element-citation>
       </ref>
@@ -1882,6 +1959,7 @@
           <volume>8</volume>
           <fpage>669</fpage>
           <lpage>679</lpage>
+          <pub-id pub-id-type="doi">10.1037/vio0000218</pub-id>
         </element-citation>
       </ref>
       <ref id="CR81">
@@ -1900,6 +1978,7 @@
           <volume>15</volume>
           <fpage>19</fpage>
           <lpage>23</lpage>
+          <pub-id pub-id-type="doi">10.1038/oby.2007.521</pub-id>
           <pub-id pub-id-type="pmid">17228027</pub-id>
         </element-citation>
       </ref>
@@ -1923,6 +2002,7 @@
           <volume>44</volume>
           <fpage>451</fpage>
           <lpage>474</lpage>
+          <pub-id pub-id-type="doi">10.1177/0146167217741313</pub-id>
         </element-citation>
       </ref>
       <ref id="CR84">
@@ -1952,6 +2032,7 @@
           <volume>101</volume>
           <fpage>568</fpage>
           <lpage>586</lpage>
+          <pub-id pub-id-type="doi">10.1037/0033-295X.101.4.568</pub-id>
           <pub-id pub-id-type="pmid">7984707</pub-id>
         </element-citation>
       </ref>
@@ -1974,6 +2055,7 @@
           <volume>5</volume>
           <fpage>243</fpage>
           <lpage>258</lpage>
+          <pub-id pub-id-type="doi">10.1111/jftr.12022</pub-id>
         </element-citation>
       </ref>
       <ref id="CR88">
@@ -1991,6 +2073,7 @@
           <volume>57</volume>
           <fpage>4</fpage>
           <lpage>15</lpage>
+          <pub-id pub-id-type="doi">10.2307/2786971</pub-id>
         </element-citation>
       </ref>
       <ref id="CR89">
@@ -2008,6 +2091,7 @@
           <volume>84</volume>
           <fpage>486</fpage>
           <lpage>516</lpage>
+          <pub-id pub-id-type="doi">10.1177/0003122419848723</pub-id>
         </element-citation>
       </ref>
       <ref id="CR90">
@@ -2055,6 +2139,7 @@
           <volume>47</volume>
           <fpage>1041</fpage>
           <lpage>1048</lpage>
+          <pub-id pub-id-type="doi">10.3109/10826084.2012.663273</pub-id>
           <pub-id pub-id-type="pmid">22676571</pub-id>
         </element-citation>
       </ref>
@@ -2101,6 +2186,7 @@
           <volume>93</volume>
           <fpage>106</fpage>
           <lpage>120</lpage>
+          <pub-id pub-id-type="doi">10.1080/0161956X.2017.1403183</pub-id>
         </element-citation>
       </ref>
       <ref id="CR98">
@@ -2119,6 +2205,7 @@
           <volume>44</volume>
           <fpage>746</fpage>
           <lpage>757</lpage>
+          <pub-id pub-id-type="doi">10.1111/acer.14290</pub-id>
           <pub-id pub-id-type="pmid">31984526</pub-id>
         </element-citation>
       </ref>
@@ -2145,6 +2232,7 @@
           <volume>102</volume>
           <fpage>967</fpage>
           <lpage>974</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2012.300666</pub-id>
           <pub-id pub-id-type="pmid">22420802</pub-id>
         </element-citation>
       </ref>
@@ -2164,6 +2252,7 @@
           <volume>48</volume>
           <fpage>178</fpage>
           <lpage>200</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.dr.2018.02.001</pub-id>
           <pub-id pub-id-type="pmid">30220766</pub-id>
         </element-citation>
       </ref>
@@ -2190,6 +2279,7 @@
           <volume>42</volume>
           <fpage>218</fpage>
           <lpage>236</lpage>
+          <pub-id pub-id-type="doi">10.1037/0012-1649.42.2.218</pub-id>
           <pub-id pub-id-type="pmid">16569162</pub-id>
         </element-citation>
       </ref>
@@ -2208,6 +2298,7 @@
           <volume>105</volume>
           <fpage>1119</fpage>
           <lpage>1146</lpage>
+          <pub-id pub-id-type="doi">10.1177/016146810310500606</pub-id>
         </element-citation>
       </ref>
       <ref id="CR103">
@@ -2229,6 +2320,7 @@
           <volume>35</volume>
           <fpage>420</fpage>
           <lpage>451</lpage>
+          <pub-id pub-id-type="doi">10.1177/0044118X03261479</pub-id>
         </element-citation>
       </ref>
       <ref id="CR104">
@@ -2247,6 +2339,7 @@
           <volume>99</volume>
           <fpage>785</fpage>
           <lpage>801</lpage>
+          <pub-id pub-id-type="doi">10.1037/a0019880</pub-id>
           <pub-id pub-id-type="pmid">20677890</pub-id>
         </element-citation>
       </ref>
@@ -2266,6 +2359,7 @@
           <volume>17</volume>
           <fpage>197</fpage>
           <lpage>209</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11218-014-9250-1</pub-id>
           <pub-id pub-id-type="pmid">24955021</pub-id>
         </element-citation>
       </ref>
@@ -2284,6 +2378,7 @@
           <volume>55</volume>
           <fpage>469</fpage>
           <lpage>480</lpage>
+          <pub-id pub-id-type="doi">10.1037/0003-066X.55.5.469</pub-id>
           <pub-id pub-id-type="pmid">10842426</pub-id>
         </element-citation>
       </ref>
@@ -2306,6 +2401,7 @@
           <volume>17</volume>
           <fpage>157</fpage>
           <lpage>168</lpage>
+          <pub-id pub-id-type="doi">10.1177/1359105311414952</pub-id>
           <pub-id pub-id-type="pmid">21799078</pub-id>
         </element-citation>
       </ref>
@@ -2324,6 +2420,7 @@
           <volume>46</volume>
           <fpage>781</fpage>
           <lpage>790</lpage>
+          <pub-id pub-id-type="doi">10.1093/geront/46.6.781</pub-id>
           <pub-id pub-id-type="pmid">17169933</pub-id>
         </element-citation>
       </ref>
@@ -2350,6 +2447,7 @@
           <volume>74</volume>
           <fpage>655</fpage>
           <lpage>663</lpage>
+          <pub-id pub-id-type="doi">10.1093/geronb/gbx095</pub-id>
         </element-citation>
       </ref>
       <ref id="CR110">
@@ -2367,6 +2465,7 @@
           <volume>136</volume>
           <fpage>1068</fpage>
           <lpage>1091</lpage>
+          <pub-id pub-id-type="doi">10.1037/a0021232</pub-id>
           <pub-id pub-id-type="pmid">21038939</pub-id>
         </element-citation>
       </ref>
@@ -2389,6 +2488,7 @@
           <volume>16</volume>
           <fpage>5</fpage>
           <lpage>20</lpage>
+          <pub-id pub-id-type="doi">10.1080/15427609.2018.1537772</pub-id>
           <pub-id pub-id-type="pmid">31602178</pub-id>
         </element-citation>
       </ref>
@@ -2411,6 +2511,7 @@
           <volume>35</volume>
           <fpage>1</fpage>
           <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.1177/0165025410384923</pub-id>
         </element-citation>
       </ref>
       <ref id="CR113">
@@ -2432,6 +2533,7 @@
           <volume>40</volume>
           <fpage>912</fpage>
           <lpage>930</lpage>
+          <pub-id pub-id-type="doi">10.1080/01419870.2016.1201583</pub-id>
         </element-citation>
       </ref>
       <ref id="CR114">
@@ -2483,6 +2585,7 @@
           <volume>30</volume>
           <fpage>140</fpage>
           <lpage>151</lpage>
+          <pub-id pub-id-type="doi">10.1111/ijsw.12454</pub-id>
         </element-citation>
       </ref>
       <ref id="CR118">
@@ -2512,6 +2615,7 @@
           <volume>96</volume>
           <fpage>826</fpage>
           <lpage>833</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2004.060749</pub-id>
           <pub-id pub-id-type="pmid">16380565</pub-id>
         </element-citation>
       </ref>
@@ -2542,6 +2646,7 @@
           <volume>33</volume>
           <fpage>1</fpage>
           <lpage>18.e3</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.annepidem.2019.02.011</pub-id>
           <pub-id pub-id-type="pmid">30987864</pub-id>
         </element-citation>
       </ref>
@@ -2568,6 +2673,7 @@
           <volume>29</volume>
           <fpage>201</fpage>
           <lpage>213</lpage>
+          <pub-id pub-id-type="doi">10.1002/j.2161-1912.2001.tb00517.x</pub-id>
         </element-citation>
       </ref>
       <ref id="CR121">
@@ -2610,6 +2716,7 @@
           <volume>48</volume>
           <fpage>3</fpage>
           <lpage>15</lpage>
+          <pub-id pub-id-type="doi">10.1080/00224490903331067</pub-id>
           <pub-id pub-id-type="pmid">19916104</pub-id>
         </element-citation>
       </ref>
@@ -2629,6 +2736,7 @@
           <volume>41</volume>
           <fpage>458</fpage>
           <lpage>466</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10865-018-9922-y</pub-id>
           <pub-id pub-id-type="pmid">29626312</pub-id>
         </element-citation>
       </ref>
@@ -2648,6 +2756,7 @@
           <volume>4</volume>
           <fpage>433</fpage>
           <lpage>441</lpage>
+          <pub-id pub-id-type="doi">10.1037/sah0000159</pub-id>
         </element-citation>
       </ref>
       <ref id="CR125">
@@ -2665,6 +2774,7 @@
           <volume>9</volume>
           <fpage>139</fpage>
           <lpage>158</lpage>
+          <pub-id pub-id-type="doi">10.1080/15325020490423343</pub-id>
         </element-citation>
       </ref>
       <ref id="CR126">
@@ -2683,6 +2793,7 @@
           <volume>16</volume>
           <fpage>1</fpage>
           <lpage>6</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12916-018-1116-5</pub-id>
         </element-citation>
       </ref>
       <ref id="CR127">
@@ -2712,6 +2823,7 @@
           <volume>44</volume>
           <fpage>1</fpage>
           <lpage>11</lpage>
+          <pub-id pub-id-type="doi">10.1111/jasp.12192</pub-id>
         </element-citation>
       </ref>
       <ref id="CR128">
@@ -2737,6 +2849,7 @@
           <volume>42</volume>
           <fpage>770</fpage>
           <lpage>780</lpage>
+          <pub-id pub-id-type="doi">10.1111/acer.13604</pub-id>
           <pub-id pub-id-type="pmid">29473966</pub-id>
         </element-citation>
       </ref>
@@ -2792,6 +2905,7 @@
           <year>2020</year>
           <volume>206</volume>
           <fpage>107667</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.drugalcdep.2019.107667</pub-id>
           <pub-id pub-id-type="pmid">31780300</pub-id>
         </element-citation>
       </ref>
@@ -2835,6 +2949,7 @@
           <volume>44</volume>
           <fpage>35</fpage>
           <lpage>42</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.addbeh.2014.10.023</pub-id>
           <pub-id pub-id-type="pmid">25468675</pub-id>
         </element-citation>
       </ref>
@@ -2857,6 +2972,7 @@
           <volume>5</volume>
           <fpage>160</fpage>
           <lpage>190</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1751-2409.2011.01029.x</pub-id>
         </element-citation>
       </ref>
       <ref id="CR134">
@@ -2874,6 +2990,7 @@
           <volume>33</volume>
           <fpage>3</fpage>
           <lpage>23</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10672-020-09359-7</pub-id>
         </element-citation>
       </ref>
       <ref id="CR135">
@@ -2907,6 +3024,7 @@
           <volume>56</volume>
           <fpage>2177</fpage>
           <lpage>2193</lpage>
+          <pub-id pub-id-type="doi">10.1037/dev0001105</pub-id>
           <pub-id pub-id-type="pmid">32833471</pub-id>
         </element-citation>
       </ref>
@@ -2948,6 +3066,7 @@
           <year>2015</year>
           <volume>10</volume>
           <fpage>e0138511</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0138511</pub-id>
           <pub-id pub-id-type="pmid">26398658</pub-id>
         </element-citation>
       </ref>
@@ -2966,6 +3085,7 @@
           <year>2016</year>
           <volume>6</volume>
           <fpage>e011453</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmjopen-2016-011453</pub-id>
           <pub-id pub-id-type="pmid">27412106</pub-id>
         </element-citation>
       </ref>
@@ -2996,6 +3116,7 @@
           <volume>103</volume>
           <fpage>101</fpage>
           <lpage>109</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2013.09.023</pub-id>
           <pub-id pub-id-type="pmid">24513229</pub-id>
         </element-citation>
       </ref>
@@ -3022,6 +3143,7 @@
           <volume>73</volume>
           <fpage>586</fpage>
           <lpage>617</lpage>
+          <pub-id pub-id-type="doi">10.1111/josi.12233</pub-id>
           <pub-id pub-id-type="pmid">29170566</pub-id>
         </element-citation>
       </ref>
@@ -3041,6 +3163,7 @@
           <volume>17</volume>
           <fpage>1</fpage>
           <lpage>15</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12916-019-1256-2</pub-id>
           <pub-id pub-id-type="pmid">30651111</pub-id>
         </element-citation>
       </ref>
@@ -3060,6 +3183,7 @@
           <volume>17</volume>
           <fpage>1</fpage>
           <lpage>11</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12916-018-1244-y</pub-id>
           <pub-id pub-id-type="pmid">30651111</pub-id>
         </element-citation>
       </ref>
@@ -3093,6 +3217,7 @@
           <year>2013</year>
           <volume>16</volume>
           <fpage>18734</fpage>
+          <pub-id pub-id-type="doi">10.7448/IAS.16.3.18734</pub-id>
           <pub-id pub-id-type="pmid">24242268</pub-id>
         </element-citation>
       </ref>
@@ -3123,6 +3248,7 @@
           <volume>15</volume>
           <fpage>33</fpage>
           <lpage>46</lpage>
+          <pub-id pub-id-type="doi">10.1080/13557850903383196</pub-id>
         </element-citation>
       </ref>
       <ref id="CR147">
@@ -3145,6 +3271,7 @@
           <volume>41</volume>
           <fpage>216</fpage>
           <lpage>245</lpage>
+          <pub-id pub-id-type="doi">10.1177/0163278717747947</pub-id>
           <pub-id pub-id-type="pmid">29254369</pub-id>
         </element-citation>
       </ref>
@@ -3171,6 +3298,7 @@
           <volume>27</volume>
           <fpage>5</fpage>
           <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.2044-8260.1988.tb00749.x</pub-id>
           <pub-id pub-id-type="pmid">3281732</pub-id>
         </element-citation>
       </ref>
@@ -3219,6 +3347,7 @@
           <volume>54</volume>
           <fpage>51</fpage>
           <lpage>58</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00127-018-1571-5</pub-id>
           <pub-id pub-id-type="pmid">30069754</pub-id>
         </element-citation>
       </ref>
@@ -3259,6 +3388,7 @@
           <year>2020</year>
           <volume>246</volume>
           <fpage>112749</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2019.112749</pub-id>
           <pub-id pub-id-type="pmid">31978636</pub-id>
         </element-citation>
       </ref>
@@ -3281,6 +3411,7 @@
           <volume>55</volume>
           <fpage>777</fpage>
           <lpage>780</lpage>
+          <pub-id pub-id-type="doi">10.1111/1475-6773.13558</pub-id>
           <pub-id pub-id-type="pmid">32976632</pub-id>
         </element-citation>
       </ref>
@@ -3311,6 +3442,7 @@
           <volume>80</volume>
           <fpage>43</fpage>
           <lpage>53</lpage>
+          <pub-id pub-id-type="doi">10.1037/a0026070</pub-id>
           <pub-id pub-id-type="pmid">22040285</pub-id>
         </element-citation>
       </ref>
@@ -3341,6 +3473,7 @@
           <volume>24</volume>
           <fpage>1155</fpage>
           <lpage>1166</lpage>
+          <pub-id pub-id-type="doi">10.1177/1359105317692855</pub-id>
           <pub-id pub-id-type="pmid">28810406</pub-id>
         </element-citation>
       </ref>
@@ -3371,6 +3504,7 @@
           <volume>85</volume>
           <fpage>1131</fpage>
           <lpage>1143</lpage>
+          <pub-id pub-id-type="doi">10.1037/ccp0000252</pub-id>
         </element-citation>
       </ref>
     </ref-list>
