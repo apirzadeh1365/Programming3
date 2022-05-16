@@ -12,7 +12,6 @@ def search(pmid):
    return references[:10]
 
 def write(ref):
-   #for ref in references:
    handle = Entrez.efetch(db="pmc", id=ref, rettype="XML", retmode="text", api_key = "b7989dc34851872fc7c8fffe0ba425979708")
    with open(f'E:\programming3\Assignment1\output\{ref}.xml', 'wb') as file:
          file.write(handle.read())
