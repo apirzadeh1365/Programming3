@@ -1,17 +1,21 @@
-
-from Bio import Entrez
-import multiprocessing as mp
-from multiprocessing.managers import BaseManager
-import argparse as ap
+"""
+Assignment2
+Azadeh Pirzadeh
+"""
 import time, queue
+from multiprocessing.managers import BaseManager
 import pickle
 from pathlib import Path
+import argparse as ap
+import multiprocessing as mp
+from Bio import Entrez
+
 
 Entrez.email = "az.pirzadeh@gmail.com"
 POISONPILL = "MEMENTOMORI"
 ERROR = "DOH"
 AUTHKEY = b'salam'
-
+API_KEY="b7989dc34851872fc7c8fffe0ba425979708"
 
 
 def make_server_manager(port, authkey, ip):
@@ -35,23 +39,20 @@ def make_server_manager(port, authkey, ip):
     print('Server started at port %s' % port)
     return manager
 
+
 def runserver(fn, data, ip, port):
     # Start a shared manager server and access its queues
     manager = make_server_manager(port, AUTHKEY, ip)
     shared_job_q = manager.get_job_q()
     shared_result_q = manager.get_result_q()
-    
     if not data:
         print("Gimme something to do here!")
-
         return
-    
     print("Sending data!")
     for d in data:
         shared_job_q.put({'fn' : fn, 'arg' : d})
     print(shared_job_q)
-    time.sleep(2)  
-    
+    time.sleep(2)
     results = []
     while True:
         try:
@@ -94,15 +95,13 @@ def make_client_manager(ip, port, authkey):
     return manager
 
 
-
-
-
 def runclient(num_processes, ip, port):
     manager = make_client_manager(ip, port, AUTHKEY)
     job_q = manager.get_job_q()
     result_q = manager.get_result_q()
     run_workers(job_q, result_q, num_processes)
-    
+
+
 def run_workers(job_q, result_q, num_processes):
     processes = []
     for p in range(num_processes):
@@ -112,6 +111,7 @@ def run_workers(job_q, result_q, num_processes):
     print("Started %s workers!" % len(processes))
     for temP in processes:
         temP.join()
+
 
 def peon(job_q, result_q):
     my_name = mp.current_process().name
@@ -130,23 +130,19 @@ def peon(job_q, result_q):
                 except NameError:
                     print("Can't find yer fun Bob!")
                     result_q.put({'job': job, 'result' : ERROR})
-
         except queue.Empty:
             print("sleepytime for", my_name)
             time.sleep(1)
 
+
 def search(pmid,count):
-   
-   results = Entrez.read(Entrez.elink(dbfrom="pubmed", db="pmc", LinkName="pubmed_pmc_refs",id=pmid, 
-                         api_key = "b7989dc34851872fc7c8fffe0ba425979708"))
+   results = Entrez.read(Entrez.elink(dbfrom="pubmed", db="pmc", LinkName="pubmed_pmc_refs",id=pmid, api_key = API_KEY))
    references = [f'{link["Id"]}' for link in results[0]["LinkSetDb"][0]["Link"]]
    print(references)
    return references[:count]
 
 
-
 def fetch_abstract(ref):
-
     handle = Entrez.esummary(db="pmc", id=ref, rettype="XML", retmode="text")
     record = Entrez.read(handle)
     data=tuple(record[0]["AuthorList"])
@@ -157,24 +153,19 @@ def fetch_abstract(ref):
 
 
 if __name__ == "__main__":
-
-
-    argparser = ap.ArgumentParser(description="Script that downloads (default) 10 articles referenced by the given PubMed ID concurrently.")
-    argparser.add_argument("-a", action="store",dest="a", required=True, type=int,help="Number of references")
-    argparser.add_argument("-n", action="store",dest="n", required=True, type=int,help="Number of cpu that we want to use of each client.")
-    argparser.add_argument("-p", action="store",dest="port", required=True, type=int,help="port number")
-    argparser.add_argument("pubmed_id", action="store", type=str, nargs=1, help="Pubmed ID.")
-    argparser.add_argument("--host", action="store",dest='host', type=str, help="host name")
-    
-    group = argparser.add_mutually_exclusive_group()
+    argparse = ap.ArgumentParser(description="Script that downloads 10 articles referenced by the given PubMed ID ")
+    argparse.add_argument("-a", action="store",dest="a", required=True, type=int,help="Number of articles to download")
+    argparse.add_argument("-n", action="store",dest="n", required=True, type=int,help="Number of_peons per client.")
+    argparse.add_argument("--port", action="store",dest="port", required=True, type=int,help="port number")
+    argparse.add_argument("pubmed_id", action="store", type=str, nargs=1, help="Pubmed ID.")
+    argparse.add_argument("--host", action="store",dest='host', type=str, help="host name(serverhost)")
+    group = argparse.add_mutually_exclusive_group()
     group.add_argument("-c", action='store_true',dest="client")
     group.add_argument("-s" , action='store_true',dest="server")
-
-    args = argparser.parse_args()
+    args = argparse.parse_args()
     data = search(args.pubmed_id,args.a)
     ip = args.host
     port = args.port
-
     if args.client:
         client = mp.Process(target=runclient, args=(4, ip, port))
         client.start()
@@ -185,12 +176,3 @@ if __name__ == "__main__":
         server.start()
         server.join()
     time.sleep(1)
-
-    
-    
-    
-    
-    
-    
-
-  
