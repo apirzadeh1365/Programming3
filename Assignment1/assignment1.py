@@ -2,7 +2,9 @@ from asyncore import read
 from msilib import type_valid
 import sys
 from Bio import Entrez
+import argparse as ap
 from multiprocessing import Pool, cpu_count
+
 Entrez.email = "az.pirzadeh@gmail.com"
 def search(pmid):
    
@@ -18,11 +20,14 @@ def write(ref):
 
 
 if __name__ == '__main__':
+
+    argparser = ap.ArgumentParser(description="Script that downloads (default) 10 articles referenced by the given PubMed ID concurrently.")
    
-   pmid =str(sys.argv[1])
-   refrence=search(pmid)
-   c=cpu_count()
-   with Pool(c) as p:
+    argparser.add_argument("pubmed_id", action="store", type=str, nargs=1, help="Pubmed ID of the article to harvest for references to download.")
+    args = argparser.parse_args()
+    refrence=search(args.pubmed_id)
+    c=cpu_count()
+    with Pool(c) as p:
         p.map(write, refrence)
 
 
