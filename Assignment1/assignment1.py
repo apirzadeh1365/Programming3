@@ -18,7 +18,7 @@ def search(pm_id):
 
 def write(references):
     handle = Entrez.efetch(db="pmc", id=references, rettype="XML", retmode="text", api_key=API_KEY)
-    with open(f'E:\programming3\Assignment1\output\{references}.xml', 'wb') as file:
+    with open(f'output/{references}.xml', 'wb') as file:
         file.write(handle.read())
 
 

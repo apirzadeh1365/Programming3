@@ -149,6 +149,9 @@ def fetch_abstract(ref):
     my_path = Path('output')
     with open(str(my_path)+ "/" + f'{ref}.authors.pickle', 'wb') as f:
         pickle.dump(data, f)
+    handle2 = Entrez.efetch(db="pmc", id=ref, rettype="XML", retmode="text", api_key=API_KEY)
+    with open(str(my_path)+ "/" + f'{ref}.xml', 'wb') as file:
+        file.write(handle2.read())
     return "Done"
 
 
