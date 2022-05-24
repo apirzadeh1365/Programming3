@@ -170,7 +170,7 @@ if __name__ == "__main__":
     ip = args.host
     port = args.port
     if args.client:
-        client = mp.Process(target=runclient, args=(4, ip, port))
+        client = mp.Process(target=runclient, args=(args.n, ip, port))
         client.start()
         client.join()
     
