@@ -7,8 +7,7 @@
 mkdir -p output
 export BLASTDB=/local-fs/datasets/
 export blastoutput=blastoutput.txt
-export num_threads=-num_threads
 export time=/usr/bin/time
 export timings=output/timings.txt
-for n in {1..16} ; do $time -a -o $timings -f %e blastp -query MCRA.faa -db ${BLASTDB}refseq_protein/refseq_protein $num_threads $n -outfmt 6 >> $blastoutput ; done
+for n in {1..16} ; do $time -a -o $timings -f %e blastp -query MCRA.faa -db ${BLASTDB}refseq_protein/refseq_protein -num_threads $n -outfmt 6 >> $blastoutput ; done
 python assignment3.py
