@@ -47,27 +47,27 @@ A5=A5.select('InterPro_accession').head(10)
 A5=[data[0] for data in A5]
 
 df=df.withColumn('S_S',(df.Stop-df.Start)/(df.Seq_len))
-A6=df.filter(df.InterPro_discription!="-").select('InterPro_accession').filter((df.S_S)>0.9).sort(f.desc(df.Stop-df.Start))
+A6=df.filter(df.InterPro_accession!="-").select('InterPro_accession').filter((df.S_S)>0.9).sort(f.desc(df.Stop-df.Start))
 E6=A6._sc._jvm.PythonSQLUtils.explainString(A6._jdf.queryExecution(),"simple") 
 A6=A6.head(10)
 A6=[data[0] for data in A6]
 
-A7=df.filter(df.InterPro_discription!="-").withColumn('word', f.explode(f.split(f.col('InterPro_discription'), ' '))) \
+A7=df.filter(df.InterPro_discription!="-").withColumn('word', f.explode(f.split(f.col('InterPro_discription'), '\s|,'))) \
   .groupBy('word').count().sort('count', ascending=False)
 E7=A7._sc._jvm.PythonSQLUtils.explainString(A7._jdf.queryExecution(),"simple") 
-A7=A7.select('word').head(10)
+A7=A7.select('word').where('word != ""').head(10)
 A7=[data[0] for data in A7]
 
-A8=df.filter(df.InterPro_discription!="-").withColumn('word', f.explode(f.split(f.col('InterPro_discription'), ' '))) \
+A8=df.filter(df.InterPro_discription!="-").withColumn('word', f.explode(f.split(f.col('InterPro_discription'), '\s|,'))) \
   .groupBy('word').count().sort('count', descending=False)
 E8=A8._sc._jvm.PythonSQLUtils.explainString(A8._jdf.queryExecution(),"simple") 
-A8=A8.select('word').head(10)
+A8=A8.select('word').where('word != ""').head(10)
 A8=[data[0] for data in A8]
 
-A9=df.filter(df.InterPro_discription!="-").filter((df.S_S)>0.9).sort(f.desc(df.Stop-df.Start)).withColumn('word', f.explode(f.split(f.col('InterPro_discription'), ' '))) \
+A9=df.filter(df.InterPro_discription!="-").filter((df.S_S)>0.9).sort(f.desc(df.Stop-df.Start)).withColumn('word', f.explode(f.split(f.col('InterPro_discription'), '\s|,'))) \
   .groupBy('word').count().sort('count', ascending=False)
 E9=A9._sc._jvm.PythonSQLUtils.explainString(A9._jdf.queryExecution(),"simple") 
-A9=A9.select('word').head(10)
+A9=A9.select('word').where('word != ""').head(10)
 A9=[data[0] for data in A9]
 
 A10=df.filter(df.InterPro_accession !="-").groupBy('Protein_accession','Seq_len').count()
