@@ -1,6 +1,5 @@
 from Bio import SeqIO
 import sys
-
 dir = sys.argv[1]
 list_of_kemer = []
 with open("output/"+dir+"/contigs.fa") as handle:
