@@ -1,5 +1,6 @@
 """
 assignment 01
+Azadeh Pirzadeh
 """
 from multiprocessing import Pool, cpu_count
 import argparse as ap

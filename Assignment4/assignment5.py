@@ -1,3 +1,7 @@
+"""
+Second part of assignment4
+Azadeh Pirzadeh
+"""
 import pandas as pd
 import numpy as np
 import shutil as sh

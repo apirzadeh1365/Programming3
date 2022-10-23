@@ -1,3 +1,7 @@
+"""
+assignment4
+Azadeh Pirzadeh
+"""
 from Bio import SeqIO
 import sys
 
