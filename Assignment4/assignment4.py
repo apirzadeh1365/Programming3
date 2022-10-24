@@ -14,7 +14,6 @@ with open("output/"+dir+"/contigs.fa") as handle:
         list_of_kemer.append(len(sequence))   
 list_of_kemer.sort(reverse=True)
 threshold = (np.sum(list_of_kemer))/2
-
 sum_number = 0
 for kmr in list_of_kemer:
     while sum_number <= threshold:
